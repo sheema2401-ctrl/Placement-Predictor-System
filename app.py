@@ -282,14 +282,14 @@ st.markdown(
 """
 
 <h1>
-🚀 Placement Predictor AI
+🚀 Placement Predictor System
 </h1>
 
 
 <center>
 
 <p>
-AI Powered Career Guidance & Placement Recommendation System
+ Career Guidance & Placement Recommendation System
 </p>
 
 </center>
